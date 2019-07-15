@@ -81,7 +81,8 @@ namespace HelloWorld
 			
 			//inifinite loop exeample ----------------------------------------------------
            	Console.WriteLine();
-			//When the conditional expression is absent, it is assumed to be true
+			// If empty conditional expression is absent
+			// it is assumed to be true
 			
 			for (; ; ) {
 				//an infinite loop
