@@ -1,13 +1,16 @@
 
 /*
-	HelloWorld.cs
-	Created by: Jo Suh
-	Created on: July 2019
- 	Created for: educational purposes
+
+HelloWorld.cs
+
+Created by: Jo Suh
+Created on: July 2019
+Created for: educational purposes
+	
 	
 	A "Hello World!" program in C#.
 	This program displays the string "Hello World!" on the screen
-  through usages of Console.WriteLine() and Console.Write().
+	through usages of Console.WriteLine() and Console.Write().
 	
 	Includes introductory notes to C# and
 	examples of various output methods
