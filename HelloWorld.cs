@@ -92,6 +92,7 @@ namespace HelloWorld
 			// The args argument stores command line arguments
 			Functions.SampleClass.printOut();
 			
+			// 'var' only works for local variables
 			var userInputReceived = Functions.SampleClass.getInput();
 			int x = 1;
 			Console.WriteLine("{0}. You entered in: {1}", x, userInputReceived);
